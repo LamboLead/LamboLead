@@ -2,8 +2,7 @@
 
 ## Who is this *@LamboLead* :car:?
 
-My name is Juan David López López, and I am a junior software developer, currently working towards becoming a Front-End web developer. (SECTION NOT COMPLETED)
-
+My name is Juan David López López, and I am a junior Front End web developer (with some experience at Back End). Versatility is my third and invisible name, you know?
 
 ### Quote of the week:
 
@@ -12,10 +11,11 @@ My name is Juan David López López, and I am a junior software developer, curre
 
 ## Table of contents
 
-* Skillset
-* Projects
-* Other interests
-* Contact me
+* [Skillset](#skillset)
+  *  [Currently studying](#currently-studying) 
+* [Projects](#projects)
+* [Other interests](#other-interests)
+* [Contact me](#contact-me)
 
 ## Skillset
 
