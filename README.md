@@ -1,6 +1,6 @@
-# Welcome to LamboLead's GitHub profile!
+![Myself](Images/Me.gif)
 
-## Who is this *@LamboLead* :car:?
+## *@LamboLead* :car:?
 
 My name is Juan David López López, and I am a junior Front End web developer (with some experience at Back End). Versatility is my third and invisible name, you know?
 
@@ -11,11 +11,14 @@ My name is Juan David López López, and I am a junior Front End web developer (
 
 ## Table of contents
 
-* [Skillset](#skillset)
-  *  [Currently studying](#currently-studying) 
-* [Projects](#projects)
-* [Other interests](#other-interests)
-* [Contact me](#contact-me)
+- [*@LamboLead* :car:?](#lambolead-car)
+  - [Quote of the week:](#quote-of-the-week)
+- [Table of contents](#table-of-contents)
+- [Skillset](#skillset)
+  - [Currently studying:](#currently-studying)
+- [Projects](#projects)
+- [Other interests](#other-interests)
+- [Contact me](#contact-me)
 
 ## Skillset
 
