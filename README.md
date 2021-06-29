@@ -11,9 +11,6 @@ My name is Juan David López López, and I am a junior Front End web developer (
 
 ## Table of contents
 
-- [*@LamboLead* :car:?](#lambolead-car)
-  - [Quote of the week:](#quote-of-the-week)
-- [Table of contents](#table-of-contents)
 - [Skillset](#skillset)
   - [Currently studying:](#currently-studying)
 - [Projects](#projects)
@@ -48,7 +45,6 @@ What can you find in this profile?
 ## Other interests
 
 I am currently studying mechanical engineering at [Universidad Nacional de Colombia](https://medellin.unal.edu.co/).
-(SECTION NOT COMPLETED)
 
 ## Contact me
 
